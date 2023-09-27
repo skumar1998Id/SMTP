@@ -1,0 +1,10 @@
+com\ascent\smtp\utils\email\BaseEmailService.class
+com\ascent\smtp\utils\email\BaseEmailService$1.class
+com\ascent\smtp\utils\email\CurrentUser.class
+com\ascent\smtp\utils\email\EmailDetailsDTO.class
+com\ascent\smtp\EmailBody\MessageBodyServiceImpl.class
+com\ascent\smtp\utils\email\EmailResource.class
+com\ascent\smtp\utils\email\ExchangeClient.class
+com\ascent\smtp\SmtpApplication.class
+com\ascent\smtp\utils\email\EmailResponse.class
+com\ascent\smtp\utils\email\ExchangeClient$ExchangeClientBuilder.class
